@@ -13,7 +13,10 @@
         android:theme="@style/Theme.BuddyCall"
         tools:targetApi="31">
         <activity
-            android:name=".MainActivity"
+            android:name=".UI.Call"
+            android:exported="false" />
+        <activity
+            android:name=".UI.login"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -21,6 +24,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
     </application>
 
 </manifest>

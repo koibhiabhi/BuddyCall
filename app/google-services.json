@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "107182443142",
+    "firebase_url": "https://buddy-call-8df6a-default-rtdb.firebaseio.com",
+    "project_id": "buddy-call-8df6a",
+    "storage_bucket": "buddy-call-8df6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107182443142:android:5b11e0782af2ba50569f07",
+        "android_client_info": {
+          "package_name": "com.example.buddycall"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIbmCzs11ODzlpnOEHlwQxKHjBviRDBW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
